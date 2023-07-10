@@ -1,13 +1,13 @@
 <nav>
     <a href="/">Home</a>
-    <a href="/bst">Binary Search Trees</a>
+    <a href="/tree">Trees</a>
     <a href="/ll">Linked Lists</a>
     <a href="/stacks">Stacks</a>
     <a href="/queues">Queues</a>
     <a href="/hash-tables">Hash Tables</a>
     <a href="/graphs">Graphs</a>
     <a href="/algorithms">Algorithms</a>
-</nav>
+  </nav>
 
 <script>
     let stackSection1 = {
