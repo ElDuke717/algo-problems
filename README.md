@@ -1,4 +1,5 @@
-# Algo-Problems
+# Data Structures and Algorithms
 
-This is an app built with SvelteKit to keep track of and outline some algorithm problems.
+This is a Svelte is a reference that I built to learn about data structures and algorithms. 
 
+I am continually building it out and an adding to it.
